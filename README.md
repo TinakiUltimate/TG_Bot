@@ -1,2 +1,1 @@
-# TG_Bot
-Bot for test case yd
+Bot_TG he is called @for_yd_bot
